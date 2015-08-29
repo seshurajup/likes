@@ -1,0 +1,206 @@
+[
+    {
+        "id": "brackets-folders-first"
+    },
+    {
+        "id": "brackets-openedfiles"
+    },
+    {
+        "id": "brackets-paste-and-indent"
+    },
+    {
+        "id": "brackets-spec-rep"
+    },
+    {
+        "id": "brackets-wakatime"
+    },
+    {
+        "id": "colorhints"
+    },
+    {
+        "id": "copycase"
+    },
+    {
+        "id": "dannymoerkerke.brackets-codeintel"
+    },
+    {
+        "id": "dannymoerkerke.brackets-php-doc"
+    },
+    {
+        "id": "deddy.additional-right-click-menu"
+    },
+    {
+        "id": "dehats.prefixr"
+    },
+    {
+        "id": "directory-search"
+    },
+    {
+        "id": "fezvrasta.brackets-darkbar"
+    },
+    {
+        "id": "filetreesync"
+    },
+    {
+        "id": "kreshnik.brackets-image-dimension-extractor"
+    },
+    {
+        "id": "keystrap"
+    },
+    {
+        "id": "lamo2k123.brackets-file-tree"
+    },
+    {
+        "id": "lamo2k123.brackets-tree-extension-color"
+    },
+    {
+        "id": "martypenner.autosave-files-on-window-blur"
+    },
+    {
+        "id": "sidebar-plus"
+    },
+    {
+        "id": "tab-tags"
+    },
+    {
+        "id": "technet.recentprojects"
+    },
+    {
+        "id": "tjeffree.extensionhighlighter"
+    },
+    {
+        "id": "torin.duplicate"
+    },
+    {
+        "id": "angularui.angularjs"
+    },
+    {
+        "id": "brackets-minifier"
+    },
+    {
+        "id": "brackets.google-search"
+    },
+    {
+        "id": "camden.csslint"
+    },
+    {
+        "id": "enturn.quick-search"
+    },
+    {
+        "id": "jquinter"
+    },
+    {
+        "id": "brackets-angularjs-codehints"
+    },
+    {
+        "id": "io.brackets.color-palette"
+    },
+    {
+        "id": "brackets-phonegap"
+    },
+    {
+        "id": "chrisgriffith.angularmaterialhints"
+    },
+    {
+        "id": "brackets-materialangularjs-codehints"
+    },
+    {
+        "id": "brackets-html5codehints"
+    },
+    {
+        "id": "funcdocr"
+    },
+    {
+        "id": "brackets-integrated-development"
+    },
+    {
+        "id": "lintyai"
+    },
+    {
+        "id": "vcfvct.brackets-file-format"
+    },
+    {
+        "id": "swmitra.stackoverflow-search"
+    },
+    {
+        "id": "brackets-unused-files"
+    },
+    {
+        "id": "catanghel.search-with-google"
+    },
+    {
+        "id": "genuitec.team-extensions"
+    },
+    {
+        "id": "dnbard.documents-toolbar"
+    },
+    {
+        "id": "jonwolfe.file-tree-exclude"
+    },
+    {
+        "id": "quickdocsphp"
+    },
+    {
+        "id": "quickdocsregex"
+    },
+    {
+        "id": "php-debugger"
+    },
+    {
+        "id": "brackets-minimap"
+    },
+    {
+        "id": "ivogabe.icons"
+    },
+    {
+        "id": "jsbeautifier"
+    },
+    {
+        "id": "edge-code-web-fonts"
+    },
+    {
+        "id": "hirse.outline-list"
+    },
+    {
+        "id": "jeffbooher.new-project"
+    },
+    {
+        "id": "insya.tools"
+    },
+    {
+        "id": "brackets-angular-snippets"
+    },
+    {
+        "id": "brackets-beautify"
+    },
+    {
+        "id": "le717.html-skeleton"
+    },
+    {
+        "id": "malas34.brackets-console-plus"
+    },
+    {
+        "id": "mikaeljorhult.brackets-php-lint-tools"
+    },
+    {
+        "id": "mackenza.php-smarthints"
+    },
+    {
+        "id": "mikaeljorhult.brackets-autoprefixer"
+    },
+    {
+        "id": "mikaeljorhult.brackets-todo"
+    },
+    {
+        "id": "talmand.html-templates"
+    },
+    {
+        "id": "globals"
+    },
+    {
+        "id": "brackets-response"
+    },
+    {
+        "id": "beldar.auto-brackets"
+    }
+]
